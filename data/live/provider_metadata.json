@@ -1,0 +1,22 @@
+{
+  "market_data_provider": "yfinance",
+  "news_data_provider": "Alpha Vantage",
+  "dataset_type": "REAL",
+  "purpose": "Research and live data ingestion layer",
+  "supported_tickers": [
+    "AAPL",
+    "MSFT",
+    "GOOGL",
+    "AMZN",
+    "NVDA",
+    "META",
+    "TSLA",
+    "JPM",
+    "V",
+    "JNJ"
+  ],
+  "disclaimer": "Market and news data are gathered for research and academic pipeline validation. Zero institutional-grade or exchange-direct execution claims are made.",
+  "api_mode": "REST",
+  "historical_mode": "Batch retrieval",
+  "realtime_mode": "Polling / Latest snapshot"
+}

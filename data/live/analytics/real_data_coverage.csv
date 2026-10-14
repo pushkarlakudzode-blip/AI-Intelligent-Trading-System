@@ -1,0 +1,11 @@
+Ticker,Company_Name,Real_Article_Count,January_Article_Count,Earliest_Article_Date,Latest_Article_Date,January_Coverage_Status,NLP_Record_Count,Unique_Sources_Count,Coverage_Notes,Generated_At_UTC
+AAPL,Apple,127,53,2025-01-01,2026-10-14,Complete,127,64,Exhaustive January 2025 backfill (53 articles) + 50 live October 2026 articles.,2026-10-14T07:09:13.876383+00:00
+MSFT,Microsoft,140,90,2025-01-01,2026-10-04,Complete,140,90,Exhaustive January 2025 backfill (90 articles across 4 sub-windows).,2026-10-14T07:09:13.876383+00:00
+GOOGL,Alphabet,61,59,2025-01-01,2026-10-14,Partial / Capped,61,53,Provider free-tier daily quota limit reached on windows 3-4; 59 January articles preserved.,2026-10-14T07:09:13.876383+00:00
+AMZN,Amazon,50,50,2025-01-09,2025-01-31,Partial / Capped,50,44,Provider free-tier daily quota limit reached during sub-window fetching; 50 January articles preserved.,2026-10-14T07:09:13.876383+00:00
+NVDA,NVIDIA,52,50,2024-06-01,2026-10-14,Partial / Capped,51,34,Provider free-tier daily quota limit reached during sub-window fetching; 50 January articles preserved.,2026-10-14T07:09:13.876383+00:00
+META,Meta Platforms,91,40,2025-01-05,2026-10-14,Complete,91,56,Exhaustive January 2025 backfill (40 articles across full month).,2026-10-14T07:09:13.876383+00:00
+TSLA,Tesla,45,44,2025-01-01,2026-10-14,Complete,46,35,Exhaustive January 2025 backfill (44 articles across full month).,2026-10-14T07:09:13.876383+00:00
+JPM,JPMorgan Chase,53,50,2024-02-15,2026-10-14,Partial / Capped,52,45,Provider free-tier daily quota limit reached during sub-window fetching; 50 January articles preserved.,2026-10-14T07:09:13.876383+00:00
+V,Visa,16,15,2025-01-02,2026-10-13,Complete,16,12,Exhaustive January 2025 backfill (15 articles across full month).,2026-10-14T07:09:13.876383+00:00
+JNJ,Johnson & Johnson,22,22,2025-01-03,2025-01-31,Complete,22,19,Exhaustive January 2025 backfill (22 articles across full month).,2026-10-14T07:09:13.876383+00:00

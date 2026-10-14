@@ -1,0 +1,3 @@
+,article_count,mean_latency_sec,median_latency_sec,p95_latency_sec,min_latency_sec,max_latency_sec,negative_latency_count
+Alpha Vantage,648.0,39483627.88,53084807.0,54898141.8,5583.0,83038468.57,0.0
+Alpaca,9.0,254.56,0.0,1376.2,-1.0,2293.0,3.0

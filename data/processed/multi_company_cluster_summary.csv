@@ -1,0 +1,4 @@
+Cluster,Regime_Label,Count,Percentage,Mean_Daily_Return,Mean_Normalized_Price_Range,Mean_Normalized_Candle_Body,Mean_Normalized_Upper_Shadow,Mean_Normalized_Lower_Shadow,Mean_Volatility_5,Mean_Relative_Volume
+0,Bearish Drawdown,2213,14.74,-0.02791,0.04681,-0.02267,0.01203,0.0107,0.0337,1.2708
+1,Calm Equilibrium,11183,74.5,0.00172,0.01797,0.00099,0.00472,0.00507,0.01376,0.9151
+2,Bullish Expansion,1614,10.75,0.03849,0.04705,0.02678,0.00823,0.01122,0.03738,1.2605

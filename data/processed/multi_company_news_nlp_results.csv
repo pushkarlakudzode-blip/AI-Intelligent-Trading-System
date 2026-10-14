@@ -1,0 +1,121 @@
+News_ID,Ticker,Company_Name,Date,Timestamp,Headline,Sentiment_Score,Sentiment_Label,Relevance_Score,Recency_Score,Importance_Score,Triage_Score
+NEWS_AAPL_001,AAPL,Apple,2023-10-19,2023-10-19 08:30:00,Apple Explores Generative AI Integration Across iOS and Siri for Next Major Release,1.0,Positive,1.0,1.0,0.75,0.75
+NEWS_AAPL_002,AAPL,Apple,2023-11-02,2023-11-02 16:30:00,Apple Q4 Revenue Dips 1% Despite Record Services Segment and Strong iPhone Sales,0.3333,Positive,1.0,1.0,0.9,0.9
+NEWS_AAPL_003,AAPL,Apple,2023-12-07,2023-12-07 09:15:00,Apple Wins Temporary Pause on US Apple Watch Import Ban Over Patent Dispute,-0.3333,Negative,1.0,1.0,0.85,0.85
+NEWS_AAPL_004,AAPL,Apple,2023-12-18,2023-12-18 10:00:00,Apple to Halt Apple Watch Series 9 and Ultra 2 Sales in US Amid Masimo Patent Ruling,-1.0,Negative,1.0,1.0,0.85,0.85
+NEWS_AAPL_005,AAPL,Apple,2024-01-02,2024-01-02 07:30:00,Barclays Downgrades Apple to Underweight Citing Weakening iPhone 15 Demand in China,-0.6,Negative,1.0,1.0,0.65,0.65
+NEWS_AAPL_006,AAPL,Apple,2024-01-08,2024-01-08 08:45:00,Apple Vision Pro Spatial Computer Available for Pre-Order in US Starting January 19,0.0,Neutral,1.0,1.0,0.75,0.75
+NEWS_AAPL_007,AAPL,Apple,2024-01-22,2024-01-22 08:00:00,BofA Global Research Upgrades Apple to Buy Highlighting AI Roadmap and Vision Pro,1.0,Positive,1.0,1.0,0.65,0.65
+NEWS_AAPL_008,AAPL,Apple,2024-02-01,2024-02-01 16:30:00,Apple Q1 Revenue Surges Past Estimates as Services Segment Sets All-Time Record,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_AAPL_009,AAPL,Apple,2024-02-27,2024-02-27 14:00:00,Apple Cancels Decade-Long Autonomous Electric Car Project to Pivot Engineers to AI,0.0,Neutral,1.0,1.0,0.75,0.75
+NEWS_AAPL_010,AAPL,Apple,2024-03-04,2024-03-04 09:30:00,European Commission Fines Apple 1.8 Billion Euros Over Music Streaming App Store Rules,-1.0,Negative,1.0,1.0,0.85,0.85
+NEWS_AAPL_011,AAPL,Apple,2024-05-02,2024-05-02 16:30:00,Apple Reports Solid Q2 Earnings and Announces Historic 110 Billion Dollar Share Buyback,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_AAPL_012,AAPL,Apple,2024-06-10,2024-06-10 13:00:00,Apple Unveils Apple Intelligence at WWDC Featuring Deep Siri Integration and OpenAI Partnership,0.0,Neutral,1.0,1.0,0.75,0.75
+NEWS_MSFT_013,MSFT,Microsoft,2023-10-24,2023-10-24 16:30:00,Microsoft Q1 Cloud Revenue Surges 19% Driven by Commercial Azure AI Demand,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_MSFT_014,MSFT,Microsoft,2023-11-15,2023-11-15 11:00:00,Microsoft Unveils Custom Maia 100 AI Chip to Optimize Datacenter Infrastructure Costs,0.0,Neutral,1.0,1.0,0.75,0.75
+NEWS_MSFT_015,MSFT,Microsoft,2023-11-20,2023-11-20 07:15:00,Microsoft Hires Sam Altman to Lead Advanced AI Research Group Following OpenAI Board Shakeup,0.0,Neutral,1.0,1.0,0.5,0.5
+NEWS_MSFT_016,MSFT,Microsoft,2024-01-16,2024-01-16 08:30:00,Microsoft Expands Commercial Copilot AI Access to Small and Medium Enterprise Customers,0.0,Neutral,1.0,1.0,0.75,0.75
+NEWS_MSFT_017,MSFT,Microsoft,2024-01-30,2024-01-30 16:30:00,Microsoft Posts Strong Q2 Financial Results with Net Income Surging 33% Year-Over-Year,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_MSFT_018,MSFT,Microsoft,2024-02-21,2024-02-21 09:00:00,Microsoft Partners with Mistral AI to Accelerate Multi-Model Cloud Deployments on Azure,1.0,Positive,1.0,1.0,0.75,0.75
+NEWS_MSFT_019,MSFT,Microsoft,2024-04-25,2024-04-25 16:30:00,Microsoft Exceeds Q3 Revenue Estimates as Cloud and Intelligent Infrastructure Growth Accelerates,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_MSFT_020,MSFT,Microsoft,2024-06-25,2024-06-25 09:30:00,European Commission Accuses Microsoft of Antitrust Violations Over Bundling Teams with Office Suite,-1.0,Negative,1.0,1.0,0.85,0.85
+NEWS_MSFT_021,MSFT,Microsoft,2024-07-19,2024-07-19 08:00:00,Global CrowdStrike IT Outage Disrupts Windows Operating Systems Across Banking and Aviation,0.0,Neutral,1.0,1.0,0.2,0.2
+NEWS_MSFT_022,MSFT,Microsoft,2024-07-30,2024-07-30 16:30:00,Microsoft Reports Record Q4 Cloud Revenue but Datacenter Capital Expenditure Prompts Scrutiny,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_MSFT_023,MSFT,Microsoft,2024-09-20,2024-09-20 10:00:00,Constellation Energy Signs Historic 20-Year Power Deal with Microsoft to Restart Three Mile Island,0.0,Neutral,1.0,1.0,0.75,0.75
+NEWS_MSFT_024,MSFT,Microsoft,2024-10-30,2024-10-30 16:30:00,Microsoft Reports Robust Fiscal Q1 Cloud Growth While Datacenter Capacity Constraints Cap Upside,0.0,Neutral,1.0,1.0,0.9,0.9
+NEWS_GOOGL_025,GOOGL,Alphabet,2023-10-24,2023-10-24 16:30:00,Alphabet Q3 Advertising Revenue Rebounds Strongly but Cloud Growth Trailing Rivals Weighs on Shares,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_GOOGL_026,GOOGL,Alphabet,2023-12-06,2023-12-06 09:00:00,"Alphabet Launches Gemini Frontier AI Model Across Ultra, Pro, and Nano Form Factors",0.0,Neutral,1.0,1.0,0.75,0.75
+NEWS_GOOGL_027,GOOGL,Alphabet,2024-01-30,2024-01-30 16:30:00,Alphabet Q4 Advertising Revenue Misses Elevated Expectations Despite 15% Top-Line Growth,0.7143,Positive,1.0,1.0,0.9,0.9
+NEWS_GOOGL_028,GOOGL,Alphabet,2024-02-22,2024-02-22 11:30:00,Alphabet Pauses Gemini Image Generation Tool Following Historical Depiction Controversy,0.0,Neutral,1.0,1.0,0.75,0.75
+NEWS_GOOGL_029,GOOGL,Alphabet,2024-04-25,2024-04-25 16:30:00,Alphabet Surges as Q1 Profit Jumps 57% and Board Authorizes First-Ever Quarterly Cash Dividend,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_GOOGL_030,GOOGL,Alphabet,2024-05-14,2024-05-14 13:00:00,Google I/O Unveils AI Overviews in Search and Advanced Multi-Modal Gemini 1.5 Pro,0.0,Neutral,1.0,1.0,0.75,0.75
+NEWS_GOOGL_031,GOOGL,Alphabet,2024-07-23,2024-07-23 16:30:00,Alphabet Q2 Cloud Revenue Tops 10 Billion Dollars with Operating Profit Expanding Significantly,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_GOOGL_032,GOOGL,Alphabet,2024-08-05,2024-08-05 15:00:00,US Federal Judge Rules Google Maintained Illegal Monopoly in Online Search in Landmark Antitrust Trial,-1.0,Negative,1.0,1.0,0.85,0.85
+NEWS_GOOGL_033,GOOGL,Alphabet,2024-09-09,2024-09-09 09:30:00,Google Faces Second DOJ Antitrust Trial in Virginia Over Alleged Monopolization of Ad Tech Stack,-1.0,Negative,1.0,1.0,0.85,0.85
+NEWS_GOOGL_034,GOOGL,Alphabet,2024-10-08,2024-10-08 14:00:00,DOJ Proposes Potential Structural Breakup of Google Search and Chrome Assets in Antitrust Framework,-1.0,Negative,1.0,1.0,0.85,0.85
+NEWS_GOOGL_035,GOOGL,Alphabet,2024-10-29,2024-10-29 16:30:00,Alphabet Q3 Revenue Beats Estimates as Cloud Computing Profit Surges Over 600% Year-Over-Year,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_GOOGL_036,GOOGL,Alphabet,2024-12-11,2024-12-11 10:00:00,"Waymo Robotaxi Surpasses 150,000 Paid Commercial Rides per Week as Autonomous Expansion Accelerates",1.0,Positive,1.0,1.0,0.75,0.75
+NEWS_AMZN_037,AMZN,Amazon,2023-10-26,2023-10-26 16:30:00,Amazon Delivers Blowout Q3 Operating Profit as AWS Stabilizes and Retail Logistics Costs Fall,0.3333,Positive,1.0,1.0,0.9,0.9
+NEWS_AMZN_038,AMZN,Amazon,2023-11-28,2023-11-28 09:00:00,Amazon Announces Record Holiday Cyber Five Shopping Sales Driven by Prime Delivery Speed,1.0,Positive,1.0,1.0,0.2,0.2
+NEWS_AMZN_039,AMZN,Amazon,2024-01-29,2024-01-29 08:30:00,Amazon Prime Video Introduces Ad-Supported Streaming Tier Generating New High-Margin Revenue,1.0,Positive,1.0,1.0,0.75,0.75
+NEWS_AMZN_040,AMZN,Amazon,2024-02-01,2024-02-01 16:30:00,Amazon Q4 Revenue Jumps 14% to 170 Billion Dollars as Cloud Growth and Retail Efficiencies Compound,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_AMZN_041,AMZN,Amazon,2024-03-27,2024-03-27 10:00:00,Amazon Invests Additional 2.75 Billion Dollars in AI Startup Anthropic Completing Planned Commitment,0.0,Neutral,1.0,1.0,0.75,0.75
+NEWS_AMZN_042,AMZN,Amazon,2024-04-30,2024-04-30 16:30:00,Amazon Posts Tripled Q1 Operating Income as AWS Revenue Re-Accelerates to 17% Year-Over-Year Growth,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_AMZN_043,AMZN,Amazon,2024-06-12,2024-06-12 09:00:00,Amazon Expands Same-Day Pharmacy Delivery to Multiple US Metropolitan Regions,1.0,Positive,1.0,1.0,0.75,0.75
+NEWS_AMZN_044,AMZN,Amazon,2024-08-01,2024-08-01 16:30:00,Amazon Q2 Revenue Falls Modestly Below Consensus as Consumers Trade Down to Cheaper Discretionary Items,-1.0,Negative,1.0,1.0,0.9,0.9
+NEWS_AMZN_045,AMZN,Amazon,2024-09-16,2024-09-16 11:00:00,Amazon CEO Mandates Full Five-Day In-Office Work Week for Corporate Employees Starting January,0.0,Neutral,1.0,1.0,0.5,0.5
+NEWS_AMZN_046,AMZN,Amazon,2024-10-31,2024-10-31 16:30:00,Amazon Q3 Operating Profit Beats Estimates by 18% Powered by Robust AWS Cloud and Advertising Margins,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_AMZN_047,AMZN,Amazon,2024-11-20,2024-11-20 09:30:00,Amazon AWS Unveils Next-Generation Trainium2 AI Silicon Offering Significant Price-Performance Improvements,0.0,Neutral,1.0,1.0,0.75,0.75
+NEWS_AMZN_048,AMZN,Amazon,2024-12-02,2024-12-02 12:00:00,Amazon Records Historic Cyber Monday Sales Volume Across North American and European Marketplaces,1.0,Positive,1.0,1.0,0.2,0.2
+NEWS_NVDA_049,NVDA,NVIDIA,2023-11-21,2023-11-21 16:30:00,NVIDIA Q3 Revenue Surges 206% to Record 18.1 Billion Dollars on Historic Generative AI Datacenter Demand,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_NVDA_050,NVDA,NVIDIA,2023-12-28,2023-12-28 09:00:00,NVIDIA Launches Modified RTX 4090 D Gaming GPU Compliant with US Export Restrictions for China,0.0,Neutral,1.0,1.0,0.85,0.85
+NEWS_NVDA_051,NVDA,NVIDIA,2024-02-21,2024-02-21 16:30:00,NVIDIA Delivers Blockbuster Q4 Earnings with Revenue Surging 265% and Raising Next-Quarter Guidance,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_NVDA_052,NVDA,NVIDIA,2024-03-18,2024-03-18 14:00:00,NVIDIA Unveils Next-Generation Blackwell B200 Architecture with 30x Faster Inference Performance,0.0,Neutral,1.0,1.0,0.75,0.75
+NEWS_NVDA_053,NVDA,NVIDIA,2024-05-22,2024-05-22 16:30:00,NVIDIA Reports Record Q1 Revenue and Announces 10-for-1 Stock Split Plus 150% Cash Dividend Increase,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_NVDA_054,NVDA,NVIDIA,2024-06-05,2024-06-05 16:00:00,NVIDIA Market Capitalization Surpasses 3 Trillion Dollars Moving Ahead of Apple as World's Second Most Valuable Firm,1.0,Positive,1.0,1.0,0.2,0.2
+NEWS_NVDA_055,NVDA,NVIDIA,2024-06-18,2024-06-18 16:00:00,NVIDIA Briefly Surpasses Microsoft to Become the Most Valuable Public Company Globally,1.0,Positive,1.0,1.0,0.2,0.2
+NEWS_NVDA_056,NVDA,NVIDIA,2024-08-28,2024-08-28 16:30:00,NVIDIA Q2 Revenue Jumps 122% to 30 Billion Dollars but Gross Margin Normalization Triggers Modest Pullback,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_NVDA_057,NVDA,NVIDIA,2024-09-03,2024-09-03 14:30:00,US Department of Justice Sends Subpoenas to NVIDIA in Deepening AI Chip Antitrust Investigation,-1.0,Negative,1.0,1.0,0.85,0.85
+NEWS_NVDA_058,NVDA,NVIDIA,2024-10-02,2024-10-02 09:30:00,NVIDIA CEO Jensen Huang States Demand for Blackwell AI Processors is Completely Insane Across Cloud Providers,1.0,Positive,1.0,1.0,0.75,0.75
+NEWS_NVDA_059,NVDA,NVIDIA,2024-11-20,2024-11-20 16:30:00,NVIDIA Q3 Revenue Rises 94% to 35.1 Billion Dollars with Blackwell Production Operating at Full Foundry Capacity,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_NVDA_060,NVDA,NVIDIA,2024-12-16,2024-12-16 08:30:00,Wall Street Upgrades NVIDIA Price Target Citing Multi-Year AI Infrastructure Datacenter Buildout,1.0,Positive,1.0,1.0,0.65,0.65
+NEWS_META_061,META,Meta Platforms,2023-10-25,2023-10-25 16:30:00,Meta Posts Strong Q3 Profit Rebound but Cites Macro Uncertainty in Cautious Ad Spending Outlook,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_META_062,META,Meta Platforms,2024-01-18,2024-01-18 12:00:00,"Meta Announces Massive GPU Infrastructure Buildout Aiming for 350,000 NVIDIA H100s for General AI",0.0,Neutral,1.0,1.0,0.75,0.75
+NEWS_META_063,META,Meta Platforms,2024-02-01,2024-02-01 16:30:00,"Meta Q4 Revenue Surges 25%, Announces Inaugural 50-Cent Dividend and 50 Billion Dollar Buyback",1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_META_064,META,Meta Platforms,2024-02-02,2024-02-02 16:00:00,Meta Shares Surge Historic 20% Adding Over 200 Billion Dollars in Single-Day Market Capitalization Record,1.0,Positive,1.0,1.0,0.2,0.2
+NEWS_META_065,META,Meta Platforms,2024-04-18,2024-04-18 09:00:00,Meta Releases Llama 3 Open Source Frontier Language Model Integrated Directly into Instagram and WhatsApp,0.0,Neutral,1.0,1.0,0.75,0.75
+NEWS_META_066,META,Meta Platforms,2024-04-24,2024-04-24 16:30:00,Meta Q1 Profit More Than Doubles but Heightened AI Infrastructure Spending Guidance Triggers Short-Term Selloff,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_META_067,META,Meta Platforms,2024-07-31,2024-07-31 16:30:00,Meta Q2 Earnings Beat Wall Street Expectations as AI-Driven Ad Targeting Efficiency Boosts Family of Apps Revenue,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_META_068,META,Meta Platforms,2024-09-25,2024-09-25 14:00:00,Meta Connect Unveils Orion Augmented Reality Holographic Glasses Prototype and Budget Quest 3S Headset,0.0,Neutral,1.0,1.0,0.75,0.75
+NEWS_META_069,META,Meta Platforms,2024-10-30,2024-10-30 16:30:00,Meta Q3 Revenue Jumps 19% to 40.6 Billion Dollars but Projected 2025 Capital Expenditure Increase Causes Pause,0.5,Positive,1.0,1.0,0.9,0.9
+NEWS_META_070,META,Meta Platforms,2024-11-13,2024-11-13 15:00:00,US Federal Judge Allows FTC Antitrust Lawsuit Seeking Potential Instagram and WhatsApp Spin-Off to Proceed to Trial,-1.0,Negative,1.0,1.0,0.85,0.85
+NEWS_META_071,META,Meta Platforms,2024-12-05,2024-12-05 10:00:00,Meta Signs Major Clean Nuclear Energy Power Purchase Agreement to Fuel Expanding AI Datacenter Clusters,0.0,Neutral,1.0,1.0,0.75,0.75
+NEWS_META_072,META,Meta Platforms,2024-12-18,2024-12-18 08:30:00,Morgan Stanley Names Meta Platforms Top Pick for 2025 Highlighting Core Digital Advertising Dominance,1.0,Positive,1.0,1.0,0.65,0.65
+NEWS_TSLA_073,TSLA,Tesla,2023-10-18,2023-10-18 16:30:00,Tesla Q3 Earnings Miss Expectations as Aggressive EV Price Cuts Squeeze Automotive Profit Margins,-0.2,Negative,1.0,1.0,0.9,0.9
+NEWS_TSLA_074,TSLA,Tesla,2023-11-30,2023-11-30 15:00:00,Tesla Delivers First Commercial Cybertruck Units at Texas Gigafactory Event Revealing Final Pricing,0.0,Neutral,1.0,1.0,0.75,0.75
+NEWS_TSLA_075,TSLA,Tesla,2024-01-24,2024-01-24 16:30:00,Tesla Warns of Notably Lower Vehicle Volume Growth in 2024 as Team Focuses on Next-Gen Platform,0.5,Positive,1.0,1.0,0.9,0.9
+NEWS_TSLA_076,TSLA,Tesla,2024-01-30,2024-01-30 17:00:00,Delaware Chancery Court Judge Voids Elon Musk 56 Billion Dollar Tesla Executive Compensation Package,0.0,Neutral,1.0,1.0,0.85,0.85
+NEWS_TSLA_077,TSLA,Tesla,2024-04-02,2024-04-02 08:30:00,Tesla Reports Q1 Vehicle Deliveries Down 8.5% Year-Over-Year Falling Well Below Analyst Expectations,-1.0,Negative,1.0,1.0,0.9,0.9
+NEWS_TSLA_078,TSLA,Tesla,2024-04-15,2024-04-15 07:00:00,Tesla Announces Global Workforce Reduction of Over 10% to Optimize Cost Structure Amid Slowing EV Demand,0.0,Neutral,1.0,1.0,0.5,0.5
+NEWS_TSLA_079,TSLA,Tesla,2024-04-23,2024-04-23 16:30:00,Tesla Q1 Profit Drops 55% but Shares Rebound as Elon Musk Promises Accelerated Affordable EV Production,0.5,Positive,1.0,1.0,0.9,0.9
+NEWS_TSLA_080,TSLA,Tesla,2024-06-13,2024-06-13 17:30:00,Tesla Shareholders Vote Overwhelmingly to Re-Approve Elon Musk Historic 56 Billion Dollar Compensation Package,0.0,Neutral,1.0,1.0,0.5,0.5
+NEWS_TSLA_081,TSLA,Tesla,2024-07-23,2024-07-23 16:30:00,Tesla Q2 Net Income Drops 40% as Automotive Gross Margins Hit Five-Year Low Amid Promotional Financing,-1.0,Negative,1.0,1.0,0.9,0.9
+NEWS_TSLA_082,TSLA,Tesla,2024-10-10,2024-10-10 22:00:00,Tesla Unveils Autonomous Cybercab Robotaxi and Robovan Prototypes at Warner Bros Studio Showcase,0.0,Neutral,1.0,1.0,0.75,0.75
+NEWS_TSLA_083,TSLA,Tesla,2024-10-23,2024-10-23 16:30:00,Tesla Q3 Earnings Beat Expectations by Wide Margin as Automotive Margins Rebound on Lower Cost per Vehicle,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_TSLA_084,TSLA,Tesla,2024-11-06,2024-11-06 16:00:00,Tesla Market Capitalization Surpasses 1 Trillion Dollars Following US Presidential Election Optimism,-1.0,Negative,1.0,1.0,0.2,0.2
+NEWS_JPM_085,JPM,JPMorgan Chase,2023-10-13,2023-10-13 07:00:00,JPMorgan Chase Posts Record Q3 Profit with Net Income Surging 35% on Higher Net Interest Margins,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_JPM_086,JPM,JPMorgan Chase,2023-12-04,2023-12-04 10:30:00,Jamie Dimon Warns of Persistent Inflation and Fiscal Deficit Headwinds During Financial Services Conference,-0.5,Negative,1.0,1.0,0.2,0.2
+NEWS_JPM_087,JPM,JPMorgan Chase,2024-01-12,2024-01-12 07:00:00,JPMorgan Reports Highest Full-Year Net Income in US Banking History at Nearly 50 Billion Dollars,0.0,Neutral,1.0,1.0,0.9,0.9
+NEWS_JPM_088,JPM,JPMorgan Chase,2024-02-20,2024-02-20 09:00:00,JPMorgan Announces Multi-Billion Dollar Plan to Open 500 New Retail Bank Branches Across the United States,0.0,Neutral,1.0,1.0,0.75,0.75
+NEWS_JPM_089,JPM,JPMorgan Chase,2024-04-12,2024-04-12 07:00:00,JPMorgan Q1 Net Interest Income Misses Expectations Despite Profit Rise as Funding Deposit Costs Creep Higher,0.6667,Positive,1.0,1.0,0.9,0.9
+NEWS_JPM_090,JPM,JPMorgan Chase,2024-05-20,2024-05-20 09:30:00,JPMorgan Annual Investor Day Highlights AI Productivity Initiatives and Stable Long-Term Deposit Franchise,-1.0,Negative,1.0,1.0,0.75,0.75
+NEWS_JPM_091,JPM,JPMorgan Chase,2024-07-12,2024-07-12 07:00:00,JPMorgan Q2 Earnings Beat Estimates Powered by 46% Surge in Investment Banking Advisory and Underwriting Fees,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_JPM_092,JPM,JPMorgan Chase,2024-09-10,2024-09-10 11:00:00,JPMorgan Cautions Full-Year Net Interest Income Expectations from Wall Street Analysts May Be Slightly Too High,1.0,Positive,1.0,1.0,0.65,0.65
+NEWS_JPM_093,JPM,JPMorgan Chase,2024-10-11,2024-10-11 07:00:00,JPMorgan Chase Q3 Profit Tops Estimates as Commercial Banking Credit Quality Remains Exceptionally Strong,0.3333,Positive,1.0,1.0,0.9,0.9
+NEWS_JPM_094,JPM,JPMorgan Chase,2024-11-14,2024-11-14 09:30:00,Federal Reserve Approves Comprehensive Capital Plan Including Increased Dividend and Share Repurchases,0.6,Positive,1.0,1.0,0.5,0.5
+NEWS_JPM_095,JPM,JPMorgan Chase,2024-12-09,2024-12-09 10:00:00,JPMorgan Invests Heavily in Sovereign Cloud Infrastructure to Expand European Institutional Client Banking,0.0,Neutral,1.0,1.0,0.75,0.75
+NEWS_JPM_096,JPM,JPMorgan Chase,2024-12-17,2024-12-17 08:30:00,Goldman Sachs Upgrades Large-Cap Banking Sector Highlighting Deregulation and Capital Return Potential,1.0,Positive,0.3,1.0,0.65,0.195
+NEWS_V_097,V,Visa,2023-10-24,2023-10-24 16:30:00,Visa Reports Strong Fiscal Q4 Earnings Powered by Resilient Consumer Spending and International Travel Surge,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_V_098,V,Visa,2024-01-25,2024-01-25 16:30:00,Visa Fiscal Q1 Revenue Beats Estimates with Payment Volume Growing 8% on Strong US Consumer Spending,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_V_099,V,Visa,2024-03-26,2024-03-26 09:00:00,Visa and Mastercard Reach Historic 30 Billion Dollar Settlement with US Merchants to Lower Interchange Swipe Fees,0.0,Neutral,1.0,1.0,0.85,0.85
+NEWS_V_100,V,Visa,2024-04-23,2024-04-23 16:30:00,Visa Fiscal Q2 Net Income Jumps 10% to 4.7 Billion Dollars as Cross-Border Transaction Volume Climbs 16%,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_V_101,V,Visa,2024-06-25,2024-06-25 15:30:00,Federal Judge Rejects 30 Billion Dollar Visa-Mastercard Merchant Swipe Fee Settlement Sending Case to Trial,0.0,Neutral,1.0,1.0,0.85,0.85
+NEWS_V_102,V,Visa,2024-07-23,2024-07-23 16:30:00,Visa Fiscal Q3 Revenue Grows 10% but Slightly Misses Elevated Wall Street Consensus Causing Minor Pullback,0.3333,Positive,1.0,1.0,0.9,0.9
+NEWS_V_103,V,Visa,2024-09-24,2024-09-24 10:00:00,US Department of Justice Files Civil Antitrust Lawsuit Accusing Visa of Monopolizing Debit Card Payment Markets,-1.0,Negative,1.0,1.0,0.85,0.85
+NEWS_V_104,V,Visa,2024-10-22,2024-10-22 09:30:00,Visa Announces Global Workforce Restructuring to Streamline Operations and Direct Resources to AI Fraud Prevention,-1.0,Negative,1.0,1.0,0.5,0.5
+NEWS_V_105,V,Visa,2024-10-29,2024-10-29 16:30:00,Visa Fiscal Q4 Profit Beats Estimates as Resilient Consumer Spending Drives Payment Volume Past 4 Trillion Dollars,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_V_106,V,Visa,2024-11-12,2024-11-12 11:00:00,Visa Board of Directors Approves 13% Cash Dividend Increase and Authorizes New 25 Billion Dollar Share Buyback,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_V_107,V,Visa,2024-12-12,2024-12-12 09:00:00,Visa Reaches Milestone of Processing Over 10 Billion Tokenized Transactions Enhancing Network Cyber Security,1.0,Positive,1.0,1.0,0.75,0.75
+NEWS_V_108,V,Visa,2024-12-19,2024-12-19 08:30:00,Baird Reasserts Outperform Rating on Visa Citing Undervalued Core Payment Franchise Amid Antitrust Noise,-0.3333,Negative,1.0,1.0,0.65,0.65
+NEWS_JNJ_109,JNJ,Johnson & Johnson,2023-10-17,2023-10-17 07:00:00,Johnson & Johnson Reports Strong Q3 Growth in MedTech and Innovative Medicine Following Kenvue Spin-Off,1.0,Positive,1.0,1.0,0.9,0.9
+NEWS_JNJ_110,JNJ,Johnson & Johnson,2023-11-30,2023-11-30 08:30:00,Johnson & Johnson Completes Acquisition of Laminar to Expand Structural Heart Medical Device Portfolio,0.0,Neutral,0.7,1.0,0.75,0.525
+NEWS_JNJ_111,JNJ,Johnson & Johnson,2024-01-23,2024-01-23 07:00:00,Johnson & Johnson Q4 Revenue Rises 7% as Oncology Drug Darzalex and MedTech Offset Loss of Exclusivity,0.0,Neutral,1.0,1.0,0.9,0.9
+NEWS_JNJ_112,JNJ,Johnson & Johnson,2024-03-05,2024-03-05 10:00:00,JNJ FDA Approval Granted for Targeted Cell Therapy Carvykti in Earlier Lines of Multiple Myeloma Treatment,1.0,Positive,1.0,1.0,0.85,0.85
+NEWS_JNJ_113,JNJ,Johnson & Johnson,2024-04-16,2024-04-16 07:00:00,Johnson & Johnson Q1 Operational Sales Rise 3.9% Led by Elective Surgery Device Rebound Across Global Hospitals,1.0,Positive,0.7,1.0,0.9,0.63
+NEWS_JNJ_114,JNJ,Johnson & Johnson,2024-05-01,2024-05-01 08:30:00,Johnson & Johnson Proposes 6.5 Billion Dollar Settlement Plan to Resolve Ovarian Talc Powder Lawsuits,-1.0,Negative,1.0,1.0,0.85,0.85
+NEWS_JNJ_115,JNJ,Johnson & Johnson,2024-07-17,2024-07-17 07:00:00,Johnson & Johnson Q2 Earnings Beat Estimates and Company Raises Full-Year Operational Guidance,1.0,Positive,0.3,1.0,0.9,0.27
+NEWS_JNJ_116,JNJ,Johnson & Johnson,2024-09-04,2024-09-04 09:30:00,Johnson & Johnson Medical Device Division Showcases Robotic Surgery Advancements at Orthopedic Forum,0.0,Neutral,0.7,1.0,0.75,0.525
+NEWS_JNJ_117,JNJ,Johnson & Johnson,2024-10-15,2024-10-15 07:00:00,Johnson & Johnson Posts Robust Q3 Oncology Revenue Growth and Completes Strategic Acquisition of Shockwave Medical,1.0,Positive,0.7,1.0,0.9,0.63
+NEWS_JNJ_118,JNJ,Johnson & Johnson,2024-11-18,2024-11-18 11:00:00,Federal Bankruptcy Judge Approves Voting Timeline on Proposed 8 Billion Dollar Comprehensive Talc Plan,1.0,Positive,1.0,1.0,0.85,0.85
+NEWS_JNJ_119,JNJ,Johnson & Johnson,2024-12-10,2024-12-10 09:00:00,Johnson & Johnson Highlights Advanced Oncology Pipeline with Multiple Phase 3 Data Readouts Slated for 2025,1.0,Positive,0.3,1.0,0.75,0.225
+NEWS_JNJ_120,JNJ,Johnson & Johnson,2024-12-17,2024-12-17 08:30:00,Leerink Partners Reiterates Outperform on JNJ Highlighting Stable Defensive Cash Flows and Talc De-Risking,1.0,Positive,1.0,1.0,0.65,0.65

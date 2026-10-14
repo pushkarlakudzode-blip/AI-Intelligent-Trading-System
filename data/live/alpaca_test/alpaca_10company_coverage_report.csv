@@ -1,0 +1,11 @@
+Ticker,Company_Name,Query_Symbol,Years_Available_Count,Years_List,Earliest_Date,Latest_Date,Articles_Sampled,Headline_Available_Pct,Summary_Available_Pct,Full_Content_Available_Pct,Usable_Text_Pct,Duplicate_IDs,Unique_Sources,Status,Notes
+AAPL,Apple,AAPL,6,"2019, 2020, 2021, 2022, 2023, 2024",2019-01-02,2024-12-31,24,100.0%,50.0%,79.2%,100.0%,0,2,CONFIRMED (6/6 Years),Direct ticker symbol query
+MSFT,Microsoft,MSFT,6,"2019, 2020, 2021, 2022, 2023, 2024",2019-01-02,2024-12-31,24,100.0%,54.2%,79.2%,100.0%,0,2,CONFIRMED (6/6 Years),Direct ticker symbol query
+GOOGL,Alphabet,GOOGL,6,"2019, 2020, 2021, 2022, 2023, 2024",2019-01-02,2024-12-31,24,100.0%,54.2%,75.0%,100.0%,0,2,CONFIRMED (6/6 Years),Direct ticker symbol query
+AMZN,Amazon,AMZN,6,"2019, 2020, 2021, 2022, 2023, 2024",2019-01-02,2024-12-31,24,100.0%,54.2%,87.5%,100.0%,0,2,CONFIRMED (6/6 Years),Direct ticker symbol query
+NVDA,NVIDIA,NVDA,6,"2019, 2020, 2021, 2022, 2023, 2024",2019-01-02,2024-12-31,24,100.0%,54.2%,79.2%,100.0%,0,2,CONFIRMED (6/6 Years),Direct ticker symbol query
+META,Meta Platforms,"META,FB",6,"2019, 2020, 2021, 2022, 2023, 2024",2019-01-02,2024-12-31,24,100.0%,58.3%,83.3%,100.0%,0,2,CONFIRMED (6/6 Years),"Query symbol includes 'META,FB' historical alias"
+TSLA,Tesla,TSLA,6,"2019, 2020, 2021, 2022, 2023, 2024",2019-01-02,2024-12-31,24,100.0%,66.7%,83.3%,100.0%,0,2,CONFIRMED (6/6 Years),Direct ticker symbol query
+JPM,JPMorgan Chase,JPM,6,"2019, 2020, 2021, 2022, 2023, 2024",2019-01-02,2024-12-31,24,100.0%,16.7%,50.0%,100.0%,0,2,CONFIRMED (6/6 Years),Direct ticker symbol query
+V,Visa,V,6,"2019, 2020, 2021, 2022, 2023, 2024",2019-01-02,2024-12-31,24,100.0%,62.5%,87.5%,100.0%,0,2,CONFIRMED (6/6 Years),Direct ticker symbol query
+JNJ,Johnson & Johnson,JNJ,6,"2019, 2020, 2021, 2022, 2023, 2024",2019-01-02,2024-12-31,24,100.0%,33.3%,50.0%,100.0%,0,2,CONFIRMED (6/6 Years),Direct ticker symbol query

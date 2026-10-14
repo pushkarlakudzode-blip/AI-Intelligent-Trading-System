@@ -1,0 +1,34 @@
+# Core Data Processing & Numerics
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+pytz>=2023.3
+
+# Financial Data & Market APIs
+yfinance>=0.2.30
+requests>=2.28.0
+websockets>=12.0
+
+# Machine Learning, Explainability & Statistics
+scikit-learn>=1.3.0
+statsmodels>=0.14.0
+xgboost>=2.0.0
+shap>=0.42.0
+
+# Natural Language Processing
+nltk>=3.8.0
+textblob>=0.17.1
+
+# Reinforcement Learning & Environment
+gymnasium>=0.29.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Web Dashboard Terminal
+streamlit>=1.28.0
+
+# Environment Configuration & Utilities
+python-dotenv>=1.0.0

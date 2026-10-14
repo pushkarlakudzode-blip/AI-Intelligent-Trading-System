@@ -1,0 +1,141 @@
+{
+  "total_trading_sessions": 300,
+  "mean_actively_held_stocks": 4.52,
+  "median_actively_held_stocks": 5,
+  "min_actively_held_stocks": 1,
+  "max_actively_held_stocks": 7,
+  "active_stocks_distribution": {
+    "1": 1,
+    "2": 10,
+    "3": 49,
+    "4": 82,
+    "5": 99,
+    "6": 49,
+    "7": 10
+  },
+  "total_round_trips": 147,
+  "total_whipsaws_le_3d": 77,
+  "portfolio_whipsaw_percentage": 52.4,
+  "per_stock_diagnosis": [
+    {
+      "ticker": "AAPL",
+      "company_name": "Apple",
+      "buy_days": 21,
+      "sell_days": 105,
+      "hold_days": 174,
+      "round_trips": 9,
+      "avg_holding_duration_days": 5.22,
+      "median_holding_duration_days": 3.0,
+      "whipsaws_le_3d": 5,
+      "whipsaw_ratio": 0.556
+    },
+    {
+      "ticker": "AMZN",
+      "company_name": "Amazon",
+      "buy_days": 142,
+      "sell_days": 33,
+      "hold_days": 125,
+      "round_trips": 25,
+      "avg_holding_duration_days": 10.24,
+      "median_holding_duration_days": 4.0,
+      "whipsaws_le_3d": 10,
+      "whipsaw_ratio": 0.4
+    },
+    {
+      "ticker": "GOOGL",
+      "company_name": "Alphabet",
+      "buy_days": 10,
+      "sell_days": 23,
+      "hold_days": 267,
+      "round_trips": 7,
+      "avg_holding_duration_days": 13.29,
+      "median_holding_duration_days": 6.0,
+      "whipsaws_le_3d": 2,
+      "whipsaw_ratio": 0.286
+    },
+    {
+      "ticker": "JNJ",
+      "company_name": "Johnson & Johnson",
+      "buy_days": 65,
+      "sell_days": 153,
+      "hold_days": 82,
+      "round_trips": 32,
+      "avg_holding_duration_days": 2.56,
+      "median_holding_duration_days": 2.0,
+      "whipsaws_le_3d": 22,
+      "whipsaw_ratio": 0.688
+    },
+    {
+      "ticker": "JPM",
+      "company_name": "JPMorgan Chase",
+      "buy_days": 39,
+      "sell_days": 97,
+      "hold_days": 164,
+      "round_trips": 16,
+      "avg_holding_duration_days": 5.19,
+      "median_holding_duration_days": 5.0,
+      "whipsaws_le_3d": 7,
+      "whipsaw_ratio": 0.438
+    },
+    {
+      "ticker": "META",
+      "company_name": "Meta Platforms",
+      "buy_days": 18,
+      "sell_days": 39,
+      "hold_days": 243,
+      "round_trips": 14,
+      "avg_holding_duration_days": 5.29,
+      "median_holding_duration_days": 3.0,
+      "whipsaws_le_3d": 8,
+      "whipsaw_ratio": 0.571
+    },
+    {
+      "ticker": "MSFT",
+      "company_name": "Microsoft",
+      "buy_days": 117,
+      "sell_days": 1,
+      "hold_days": 182,
+      "round_trips": 2,
+      "avg_holding_duration_days": 147.5,
+      "median_holding_duration_days": 147.5,
+      "whipsaws_le_3d": 0,
+      "whipsaw_ratio": 0.0
+    },
+    {
+      "ticker": "NVDA",
+      "company_name": "NVIDIA",
+      "buy_days": 99,
+      "sell_days": 72,
+      "hold_days": 129,
+      "round_trips": 33,
+      "avg_holding_duration_days": 5.03,
+      "median_holding_duration_days": 2.0,
+      "whipsaws_le_3d": 23,
+      "whipsaw_ratio": 0.697
+    },
+    {
+      "ticker": "TSLA",
+      "company_name": "Tesla",
+      "buy_days": 81,
+      "sell_days": 13,
+      "hold_days": 206,
+      "round_trips": 9,
+      "avg_holding_duration_days": 28.78,
+      "median_holding_duration_days": 25.0,
+      "whipsaws_le_3d": 0,
+      "whipsaw_ratio": 0.0
+    },
+    {
+      "ticker": "V",
+      "company_name": "Visa",
+      "buy_days": 0,
+      "sell_days": 143,
+      "hold_days": 157,
+      "round_trips": 0,
+      "avg_holding_duration_days": 0.0,
+      "median_holding_duration_days": 0.0,
+      "whipsaws_le_3d": 0,
+      "whipsaw_ratio": 0.0
+    }
+  ]
+}

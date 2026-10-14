@@ -1,0 +1,41 @@
+Ticker,Model,TN,FP,FN,TP
+AAPL,Logistic Regression,85,45,107,63
+AAPL,Decision Tree,124,6,160,10
+AAPL,Gaussian Naive Bayes,123,7,159,11
+AAPL,SVM,52,78,55,115
+AMZN,Logistic Regression,100,40,121,39
+AMZN,Decision Tree,45,95,52,108
+AMZN,Gaussian Naive Bayes,133,7,149,11
+AMZN,SVM,94,46,110,50
+GOOGL,Logistic Regression,67,57,83,93
+GOOGL,Decision Tree,69,55,94,82
+GOOGL,Gaussian Naive Bayes,116,8,170,6
+GOOGL,SVM,95,29,130,46
+JNJ,Logistic Regression,89,50,106,55
+JNJ,Decision Tree,135,4,159,2
+JNJ,Gaussian Naive Bayes,93,46,90,71
+JNJ,SVM,84,55,85,76
+JPM,Logistic Regression,118,3,171,8
+JPM,Decision Tree,33,88,39,140
+JPM,Gaussian Naive Bayes,121,0,178,1
+JPM,SVM,114,7,167,12
+META,Logistic Regression,121,18,146,15
+META,Decision Tree,45,94,52,109
+META,Gaussian Naive Bayes,138,1,156,5
+META,SVM,131,8,151,10
+MSFT,Logistic Regression,127,6,151,16
+MSFT,Decision Tree,8,125,8,159
+MSFT,Gaussian Naive Bayes,133,0,167,0
+MSFT,SVM,87,46,120,47
+NVDA,Logistic Regression,121,9,155,15
+NVDA,Decision Tree,73,57,95,75
+NVDA,Gaussian Naive Bayes,130,0,170,0
+NVDA,SVM,124,6,158,12
+TSLA,Logistic Regression,24,120,26,130
+TSLA,Decision Tree,16,128,19,137
+TSLA,Gaussian Naive Bayes,34,110,41,115
+TSLA,SVM,26,118,43,113
+V,Logistic Regression,115,6,165,14
+V,Decision Tree,116,5,169,10
+V,Gaussian Naive Bayes,116,5,167,12
+V,SVM,12,109,22,157

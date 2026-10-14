@@ -1,0 +1,21 @@
+Metric,Value,Notes
+Provider,MarketAux,https://api.marketaux.com/v1/news/all
+Ticker,AAPL,Target equity
+Requested_Period,2019-01-01 to 2024-12-31,6-year historical window
+Token_Configured,True,Checked via MARKETAUX_API_TOKEN
+Provider_Reported_Count,83757,meta.found from API
+Articles_Retrieved,12,Sample retrieved for testing
+Earliest_Article,2021-12-30,Oldest publication date observed
+Latest_Article,2024-12-30,Newest publication date observed
+Pagination_Limit,3 articles/page,Per-page return limit
+Rate_Quota_Info,"Free Tier: 100 req/day, 1 req/sec, max 3 items/page",Provider throughput parameters
+Total_Unique_Sources,9,Distinct publishing domains
+Usable_Text_Pct,100.0%,Title OR Description present
+Duplicate_IDs,0,Duplicate UUIDs or News_IDs
+Duplicate_URLs,0,Duplicate web links
+Duplicate_Title_Dates,0,Duplicate title + date keys
+NLP_Sample_Size,12,In-memory test batch
+NLP_Successfully_Processed,12,Successfully scored by NLP
+NLP_Failed,0,NLP runtime errors
+Feasibility_Verdict,LIMITED,GOOD / LIMITED / NOT SUITABLE
+Integration_Status,Proof-of-Concept Only,Not integrated into production news pipeline

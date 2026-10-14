@@ -1,0 +1,9 @@
+{
+  "mean_daily_return_difference": -5.9500999999999964e-05,
+  "annualized_return_difference": -0.014994251999999991,
+  "paired_ttest_t_stat": -0.5783074622117423,
+  "paired_ttest_p_value": 0.5634918696241569,
+  "wilcoxon_stat": 3494.5,
+  "wilcoxon_p_value": 0.8412931744794861,
+  "statistically_significant_at_05": false
+}

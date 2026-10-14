@@ -1,0 +1,24 @@
+timestamp_utc,market_requested,news_requested,market_success,news_success,articles_added,articles_duplicate,articles_rejected,quota_limited,analytics_rebuilt,status,error_message
+2026-10-03 16:17:36 UTC,True,True,True,False,0,0,0,True,True,PARTIAL,Alpha Vantage quota limit reached on JPM.; News refresh failed: 'set' object is not subscriptable
+2026-10-03 16:29:20 UTC,True,False,True,False,0,0,0,False,True,SUCCESS,
+2026-10-04 19:05:25 UTC,True,True,True,False,0,0,0,True,True,PARTIAL,Alpha Vantage quota limit reached on MSFT.; News refresh failed: 'set' object is not subscriptable
+2026-10-04 19:05:24 UTC,True,True,True,False,123,27,0,True,True,PARTIAL,Alpha Vantage quota limit reached on NVDA.; News refresh failed: 'set' object is not subscriptable
+2026-10-13 18:23:26 UTC,True,True,True,False,0,0,0,True,True,PARTIAL,Alpha Vantage quota limit reached on AAPL.
+2026-10-13 18:24:55 UTC,False,True,False,False,0,0,0,True,True,FAILED,Alpha Vantage quota limit reached on AAPL.
+2026-10-13 18:29:25 UTC,True,True,True,False,0,0,0,True,True,PARTIAL,Alpha Vantage quota limit reached on AAPL.
+2026-10-13 18:40:13 UTC,True,True,True,False,0,0,0,True,True,PARTIAL,Alpha Vantage quota limit reached on AAPL.
+2026-10-13 18:53:35 UTC,True,False,True,False,0,0,0,False,True,SUCCESS,
+2026-10-13 18:54:46 UTC,False,True,False,False,0,0,0,True,True,FAILED,Alpha Vantage quota limit reached on AAPL.
+2026-10-13 19:34:58 UTC,True,True,True,False,0,0,0,True,True,PARTIAL,Alpha Vantage quota limit reached on AAPL.
+2026-10-13 19:35:14 UTC,True,True,True,False,0,0,0,True,True,PARTIAL,Alpha Vantage quota limit reached on AAPL.
+2026-10-13 19:35:29 UTC,False,True,False,False,0,0,0,True,True,FAILED,Alpha Vantage quota limit reached on AAPL.
+2026-10-13 19:36:21 UTC,False,True,False,False,0,0,0,True,True,FAILED,Alpha Vantage quota limit reached on AAPL.
+2026-10-13 19:38:28 UTC,False,True,False,False,0,0,0,True,True,FAILED,Alpha Vantage quota limit reached on AAPL.
+2026-10-13 19:38:32 UTC,True,True,True,False,0,0,0,True,True,PARTIAL,Alpha Vantage quota limit reached on AAPL.
+2026-10-13 19:38:52 UTC,True,True,True,False,0,0,0,True,True,PARTIAL,Alpha Vantage quota limit reached on AAPL.
+2026-10-14 04:19:08 UTC,True,True,False,False,0,0,0,True,True,FAILED,Market refresh succeeded for 0/10 tickers.; News refresh failed on AAPL: Network error after 3 attempts: <urlopen error [Errno 11001] getaddrinfo failed>; News refresh failed on AMZN: Network error after 3 attempts: <urlopen error [Errno 11001] getaddrinfo failed>; News refresh failed on GOOGL: Network error after 3 attempts: <urlopen error [Errno 11001] getaddrinfo failed>; Alpha Vantage quota limit reached on JNJ.
+2026-10-14 04:20:14 UTC,True,True,True,False,0,0,0,True,True,PARTIAL,Alpha Vantage quota limit reached on AAPL.
+2026-10-14 06:42:01 UTC,True,True,True,False,0,0,0,True,True,PARTIAL,Alpha Vantage quota limit reached on AAPL.
+2026-10-14 06:42:02 UTC,True,True,True,False,0,0,0,True,True,PARTIAL,Alpha Vantage quota limit reached on AAPL.
+2026-10-14 07:08:15 UTC,True,True,False,False,0,0,0,True,True,FAILED,Market refresh succeeded for 0/10 tickers.; Alpha Vantage quota limit reached on AAPL.
+2026-10-14 07:09:09 UTC,True,True,True,False,0,0,0,True,True,PARTIAL,Alpha Vantage quota limit reached on AAPL.

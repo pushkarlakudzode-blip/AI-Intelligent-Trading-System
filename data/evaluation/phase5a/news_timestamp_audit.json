@@ -1,0 +1,10 @@
+{
+  "total_news_items": 120,
+  "before_market_open_count": 38,
+  "before_market_open_pct": 31.67,
+  "during_market_count": 37,
+  "during_market_pct": 30.83,
+  "after_market_close_count": 45,
+  "after_market_close_pct": 37.5,
+  "lookahead_risk_if_same_day_close": "45 articles (37.5%)"
+}

@@ -1,0 +1,7 @@
+session_window,Alpaca,Alpha Vantage,All
+After-Hours (16:00-20:00),0,57,57
+Overnight (20:00-04:00),8,258,266
+Pre-Market (04:00-09:30),0,102,102
+Regular Hours (09:30-16:00),1,110,111
+Weekend,0,121,121
+All,9,648,657
