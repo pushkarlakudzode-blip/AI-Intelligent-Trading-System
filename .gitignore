@@ -71,4 +71,4 @@ data/live/*.db-journal
 # Logs and cache
 *.log
 .pytest_cache/
-
+*.png
